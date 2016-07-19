@@ -18,10 +18,7 @@ class Header extends Component {
           <Link className="nav-link" to="/signup">Sign Up</Link>
         </li>
       ];
-
     }
-
-
   }
 
   render() {
